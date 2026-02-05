@@ -30,13 +30,16 @@
 
 ---
 
-## 📊 GitHub Stats
+github stats:
+
+# 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KadamPrasad01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KadamPrasad01&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KadamPrasad01&theme=tokyonight" />
+ <img src="https://github-readme-streak-stats-eight.vercel.app?user=KadamPrasad01&theme=tokyonight&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadamPrasad01&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KadamPrasad01&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -50,9 +53,8 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KadamPrasad01&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-pi.vercel.app/?username=KadamPrasad01&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
-
 ---
 
 ## 💻 Tech Stack
